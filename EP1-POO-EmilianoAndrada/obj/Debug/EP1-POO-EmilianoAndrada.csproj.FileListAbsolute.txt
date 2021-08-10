@@ -1,0 +1,24 @@
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\bin\Debug\EP1-POO-EmilianoAndrada.exe.config
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\bin\Debug\EP1-POO-EmilianoAndrada.exe
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\bin\Debug\EP1-POO-EmilianoAndrada.pdb
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.csprojAssemblyReference.cache
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.Form1.resources
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.Properties.Resources.resources
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.csproj.GenerateResource.cache
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.csproj.CoreCompileInputs.cache
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.exe
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.pdb
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.DatosCliente.resources
+C:\Users\Emili\source\repos\EP1-POO-EmilianoAndrada\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.DatosTarjeta.resources
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\bin\Debug\EP1-POO-EmilianoAndrada.exe.config
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\bin\Debug\EP1-POO-EmilianoAndrada.exe
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\bin\Debug\EP1-POO-EmilianoAndrada.pdb
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.csprojAssemblyReference.cache
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.DatosCliente.resources
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.DatosTarjeta.resources
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.Form1.resources
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1_POO_EmilianoAndrada.Properties.Resources.resources
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.csproj.GenerateResource.cache
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.csproj.CoreCompileInputs.cache
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.exe
+C:\Users\Emili\Desktop\Programacion Orienrada a objetos\EP1-Poo-AndradaEmiliano\EP1-POO-EmilianoAndrada\obj\Debug\EP1-POO-EmilianoAndrada.pdb
